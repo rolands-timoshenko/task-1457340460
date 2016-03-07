@@ -1,5 +1,7 @@
 //Main.js
 
 function Main(){
-    return "Main function";
+    alert("Main function");
 }
+
+Main()
